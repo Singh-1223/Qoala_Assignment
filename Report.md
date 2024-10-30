@@ -22,8 +22,11 @@
 - **Volume Mounting**: Incorrect configuration file path
 
 ### Screenshots
+
 **Docker container running locally**
 ![Docker container running locally](https://github.com/user-attachments/assets/53341ee6-7baf-4508-8879-f2b9437d62c7)
+
+
 **Docker container running on ec2 instance**
 ![Docker container running on ec2 instance](https://github.com/user-attachments/assets/d6aa3004-f934-40c0-a002-5a67142895dc)
 
