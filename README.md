@@ -1,3 +1,5 @@
+# SOLUTION IN **REPORT.md** file
+
 # DevOps Assignment: Debugging and Running a Dockerized Application
 
 Welcome to your DevOps assignment! Your goal is to debug and deploy a Dockerized application. The steps below outline the tasks you’ll complete, including setup, debugging, running, testing, and submitting your work.
